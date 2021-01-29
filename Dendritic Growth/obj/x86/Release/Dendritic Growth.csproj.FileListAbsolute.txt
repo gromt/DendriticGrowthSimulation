@@ -1,0 +1,11 @@
+C:\Users\Iermolenko\Desktop\Аспирантура\Диссертация\C#Projects\!DENDRITICGROWTH\Dendritic Growth 0.3_Recent\Dendritic Growth\bin\Release\Dendritic Growth 0.2 GPU.exe
+C:\Users\Iermolenko\Desktop\Аспирантура\Диссертация\C#Projects\!DENDRITICGROWTH\Dendritic Growth 0.3_Recent\Dendritic Growth\bin\Release\Dendritic Growth 0.2 GPU.pdb
+C:\Users\Iermolenko\Desktop\Аспирантура\Диссертация\C#Projects\!DENDRITICGROWTH\Dendritic Growth 0.3_Recent\Dendritic Growth\bin\Release\alglibnet2.dll
+C:\Users\Iermolenko\Desktop\Аспирантура\Диссертация\C#Projects\!DENDRITICGROWTH\Dendritic Growth 0.3_Recent\Dendritic Growth\obj\x86\Release\Dendritic Growth.csprojResolveAssemblyReference.cache
+C:\Users\Iermolenko\Desktop\Аспирантура\Диссертация\C#Projects\!DENDRITICGROWTH\Dendritic Growth 0.3_Recent\Dendritic Growth\obj\x86\Release\Dendritic Growth.csproj.ResolveComReference.cache
+C:\Users\Iermolenko\Desktop\Аспирантура\Диссертация\C#Projects\!DENDRITICGROWTH\Dendritic Growth 0.3_Recent\Dendritic Growth\obj\x86\Release\Dendritic_Growth.Form1.resources
+C:\Users\Iermolenko\Desktop\Аспирантура\Диссертация\C#Projects\!DENDRITICGROWTH\Dendritic Growth 0.3_Recent\Dendritic Growth\obj\x86\Release\Dendritic_Growth.Form2.resources
+C:\Users\Iermolenko\Desktop\Аспирантура\Диссертация\C#Projects\!DENDRITICGROWTH\Dendritic Growth 0.3_Recent\Dendritic Growth\obj\x86\Release\Dendritic_Growth_GPU.Properties.Resources.resources
+C:\Users\Iermolenko\Desktop\Аспирантура\Диссертация\C#Projects\!DENDRITICGROWTH\Dendritic Growth 0.3_Recent\Dendritic Growth\obj\x86\Release\Dendritic Growth.csproj.GenerateResource.Cache
+C:\Users\Iermolenko\Desktop\Аспирантура\Диссертация\C#Projects\!DENDRITICGROWTH\Dendritic Growth 0.3_Recent\Dendritic Growth\obj\x86\Release\Dendritic Growth 0.2 GPU.exe
+C:\Users\Iermolenko\Desktop\Аспирантура\Диссертация\C#Projects\!DENDRITICGROWTH\Dendritic Growth 0.3_Recent\Dendritic Growth\obj\x86\Release\Dendritic Growth 0.2 GPU.pdb

@@ -1,0 +1,1545 @@
+An old color map...        
+	if (UserCells[i, j].C > 0.3 && UserCells[i, j].C <= 0.31)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 250));
+         }
+
+         if (UserCells[i, j].C > 0.31 && UserCells[i, j].C <= 0.32)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 248));
+         }
+
+         if (UserCells[i, j].C > 0.32 && UserCells[i, j].C <= 0.33)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 246));
+         }
+
+         if (UserCells[i, j].C > 0.33 && UserCells[i, j].C <= 0.34)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 244));
+         }
+
+         if (UserCells[i, j].C > 0.34 && UserCells[i, j].C <= 0.35)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 242));
+         }
+
+         if (UserCells[i, j].C > 0.35 && UserCells[i, j].C <= 0.36)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 240));
+         }
+
+         if (UserCells[i, j].C > 0.36 && UserCells[i, j].C <= 0.37)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 238));
+         }
+
+         if (UserCells[i, j].C > 0.37 && UserCells[i, j].C <= 0.38)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 236));
+         }
+
+         if (UserCells[i, j].C > 0.38 && UserCells[i, j].C <= 0.39)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 234));
+         }
+
+         if (UserCells[i, j].C > 0.39 && UserCells[i, j].C <= 0.40)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 232)); 
+         }
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+         if (UserCells[i, j].C > 0.40 && UserCells[i, j].C <= 0.41)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 230));
+         }
+
+         if (UserCells[i, j].C > 0.41 && UserCells[i, j].C <= 0.42)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 228));
+         }
+
+         if (UserCells[i, j].C > 0.42 && UserCells[i, j].C <= 0.43)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 226));
+         }
+
+         if (UserCells[i, j].C > 0.43 && UserCells[i, j].C <= 0.44)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 224));
+         }
+
+         if (UserCells[i, j].C > 0.44 && UserCells[i, j].C <= 0.45)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 222));
+         }
+
+         if (UserCells[i, j].C > 0.45 && UserCells[i, j].C <= 0.46)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 220));
+         }
+
+         if (UserCells[i, j].C > 0.46 && UserCells[i, j].C <= 0.47)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 218));
+         }
+
+         if (UserCells[i, j].C > 0.47 && UserCells[i, j].C <= 0.48)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 216));
+         }
+
+         if (UserCells[i, j].C > 0.48 && UserCells[i, j].C <= 0.49)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 214));
+         }
+
+         if (UserCells[i, j].C > 0.49 && UserCells[i, j].C <= 0.50)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 212));
+         }
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+         if (UserCells[i, j].C > 0.50 && UserCells[i, j].C <= 0.51)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 210));
+         }
+
+         if (UserCells[i, j].C > 0.51 && UserCells[i, j].C <= 0.52)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 208));
+         }
+
+         if (UserCells[i, j].C > 0.52 && UserCells[i, j].C <= 0.53)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 206));
+         }
+
+         if (UserCells[i, j].C > 0.53 && UserCells[i, j].C <= 0.54)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 204));
+         }
+
+         if (UserCells[i, j].C > 0.54 && UserCells[i, j].C <= 0.55)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 202));
+         }
+                    ///
+         if (UserCells[i, j].C > 0.55 && UserCells[i, j].C <= 0.56)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 200));
+         }
+
+         if (UserCells[i, j].C > 0.56 && UserCells[i, j].C <= 0.57)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 198));
+         }
+
+         if (UserCells[i, j].C > 0.57 && UserCells[i, j].C <= 0.58)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 196));
+         }
+
+         if (UserCells[i, j].C > 0.58 && UserCells[i, j].C <= 0.59)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 194));
+         }
+
+         if (UserCells[i, j].C > 0.59 && UserCells[i, j].C <= 0.60)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 192));
+         }
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+         if (UserCells[i, j].C > 0.60 && UserCells[i, j].C <= 0.61)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 190));
+         }
+
+         if (UserCells[i, j].C > 0.61 && UserCells[i, j].C <= 0.62)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 188));
+         }
+
+         if (UserCells[i, j].C > 0.62 && UserCells[i, j].C <= 0.63)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 186));
+         }
+
+         if (UserCells[i, j].C > 0.63 && UserCells[i, j].C <= 0.64)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 184));
+         }
+
+         if (UserCells[i, j].C > 0.64 && UserCells[i, j].C <= 0.65)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 182));
+         }
+
+         if (UserCells[i, j].C > 0.65 && UserCells[i, j].C <= 0.66)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 180));
+         }
+
+         if (UserCells[i, j].C > 0.66 && UserCells[i, j].C <= 0.67)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 178));
+         }
+
+         if (UserCells[i, j].C > 0.67 && UserCells[i, j].C <= 0.68)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 176));
+         }
+
+         if (UserCells[i, j].C > 0.68 && UserCells[i, j].C <= 0.69)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 174));
+         }
+
+         if (UserCells[i, j].C > 0.69 && UserCells[i, j].C <= 0.70)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 172));
+         }
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+         if (UserCells[i, j].C > 0.70 && UserCells[i, j].C <= 0.71)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 170));
+         }
+
+         if (UserCells[i, j].C > 0.71 && UserCells[i, j].C <= 0.72)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 168));
+         }
+
+         if (UserCells[i, j].C > 0.72 && UserCells[i, j].C <= 0.73)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 166));
+         }
+
+         if (UserCells[i, j].C > 0.73 && UserCells[i, j].C <= 0.74)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 164));
+         }
+
+         if (UserCells[i, j].C > 0.74 && UserCells[i, j].C <= 0.75)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 162));
+         }
+
+         if (UserCells[i, j].C > 0.75 && UserCells[i, j].C <= 0.76)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 160));
+         }
+
+         if (UserCells[i, j].C > 0.76 && UserCells[i, j].C <= 0.77)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 158));
+         }
+
+         if (UserCells[i, j].C > 0.77 && UserCells[i, j].C <= 0.78)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 156));
+         }
+
+         if (UserCells[i, j].C > 0.78 && UserCells[i, j].C <= 0.79)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 154));
+         }
+
+         if (UserCells[i, j].C > 0.79 && UserCells[i, j].C <= 0.80)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 152));
+         }
+         
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+         if (UserCells[i, j].C > 0.80 && UserCells[i, j].C <= 0.81)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 150));
+         }
+
+         if (UserCells[i, j].C > 0.81 && UserCells[i, j].C <= 0.82)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 148));
+         }
+
+         if (UserCells[i, j].C > 0.82 && UserCells[i, j].C <= 0.83)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 146));
+         }
+
+         if (UserCells[i, j].C > 0.83 && UserCells[i, j].C <= 0.84)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 144));
+         }
+
+         if (UserCells[i, j].C > 0.84 && UserCells[i, j].C <= 0.85)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 142));
+         }
+
+         if (UserCells[i, j].C > 0.85 && UserCells[i, j].C <= 0.86)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 140));
+         }
+
+         if (UserCells[i, j].C > 0.86 && UserCells[i, j].C <= 0.87)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 138));
+         }
+
+         if (UserCells[i, j].C > 0.87 && UserCells[i, j].C <= 0.88)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 136));
+         }
+
+         if (UserCells[i, j].C > 0.88 && UserCells[i, j].C <= 0.89)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 134));
+         }
+
+         if (UserCells[i, j].C > 0.89 && UserCells[i, j].C <= 0.90)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 132));
+         }
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+         if (UserCells[i, j].C > 0.90 && UserCells[i, j].C <= 0.91)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 130));
+         }
+
+         if (UserCells[i, j].C > 0.91 && UserCells[i, j].C <= 0.92)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 128));
+         }
+
+         if (UserCells[i, j].C > 0.92 && UserCells[i, j].C <= 0.93)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 126));
+         }
+
+         if (UserCells[i, j].C > 0.93 && UserCells[i, j].C <= 0.94)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 124));
+         }
+
+         if (UserCells[i, j].C > 0.94 && UserCells[i, j].C <= 0.95)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 122));
+         }
+
+         if (UserCells[i, j].C > 0.95 && UserCells[i, j].C <= 0.96)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 120));
+         }
+
+         if (UserCells[i, j].C > 0.96 && UserCells[i, j].C <= 0.97)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 118));
+         }
+
+         if (UserCells[i, j].C > 0.97 && UserCells[i, j].C <= 0.98)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 116));
+         }
+
+         if (UserCells[i, j].C > 0.98 && UserCells[i, j].C <= 0.99)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 114));
+         }
+
+         if (UserCells[i, j].C > 0.99 && UserCells[i, j].C <= 1.00)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 112));
+         }
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+         if (UserCells[i, j].C > 1.00 && UserCells[i, j].C <= 1.01)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 110));
+         }
+
+         if (UserCells[i, j].C > 1.01 && UserCells[i, j].C <= 1.02)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 108));
+         }
+
+         if (UserCells[i, j].C > 1.02 && UserCells[i, j].C <= 1.03)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 106));
+         }
+
+         if (UserCells[i, j].C > 1.03 && UserCells[i, j].C <= 1.04)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 104));
+         }
+
+         if (UserCells[i, j].C > 1.04 && UserCells[i, j].C <= 1.05)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 102));
+         }
+
+         if (UserCells[i, j].C > 1.05 && UserCells[i, j].C <= 1.06)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 100));
+         }
+
+         if (UserCells[i, j].C > 1.06 && UserCells[i, j].C <= 1.07)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 98));
+         }
+
+         if (UserCells[i, j].C > 1.07 && UserCells[i, j].C <= 1.08)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 96));
+         }
+
+         if (UserCells[i, j].C > 1.08 && UserCells[i, j].C <= 1.09)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 94));
+         }
+
+         if (UserCells[i, j].C > 1.09 && UserCells[i, j].C <= 1.10)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 92));
+         }
+         
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+         
+         if (UserCells[i, j].C > 1.10 && UserCells[i, j].C <= 1.11)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 90));
+         }
+
+         if (UserCells[i, j].C > 1.11 && UserCells[i, j].C <= 1.12)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 88));
+         }
+
+         if (UserCells[i, j].C > 1.12 && UserCells[i, j].C <= 1.13)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 86));
+         }
+
+         if (UserCells[i, j].C > 1.13 && UserCells[i, j].C <= 1.14)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 84));
+         }
+
+         if (UserCells[i, j].C > 1.14 && UserCells[i, j].C <= 1.15)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 82));
+         }
+
+         if (UserCells[i, j].C > 1.15 && UserCells[i, j].C <= 1.16)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 80));
+         }
+
+         if (UserCells[i, j].C > 1.16 && UserCells[i, j].C <= 1.17)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 78));
+         }
+
+         if (UserCells[i, j].C > 1.17 && UserCells[i, j].C <= 1.18)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 76));
+         }
+
+         if (UserCells[i, j].C > 1.18 && UserCells[i, j].C <= 1.19)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 74));
+         }
+
+         if (UserCells[i, j].C > 1.19 && UserCells[i, j].C <= 1.20)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 72));
+         }
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+         if (UserCells[i, j].C > 1.20 && UserCells[i, j].C <= 1.21)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 70));
+         }
+
+         if (UserCells[i, j].C > 1.21 && UserCells[i, j].C <= 1.22)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 68));
+         }
+
+         if (UserCells[i, j].C > 1.22 && UserCells[i, j].C <= 1.23)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 66));
+         }
+
+         if (UserCells[i, j].C > 1.23 && UserCells[i, j].C <= 1.24)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 64));
+         }
+
+         if (UserCells[i, j].C > 1.24 && UserCells[i, j].C <= 1.25)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 62));
+         }
+
+         if (UserCells[i, j].C > 1.25 && UserCells[i, j].C <= 1.26)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 60));
+         }
+
+         if (UserCells[i, j].C > 1.26 && UserCells[i, j].C <= 1.27)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 68));
+         }
+
+         if (UserCells[i, j].C > 1.27 && UserCells[i, j].C <= 1.28)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 66));
+         }
+
+         if (UserCells[i, j].C > 1.28 && UserCells[i, j].C <= 1.29)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 64));
+         }
+
+         if (UserCells[i, j].C > 1.29 && UserCells[i, j].C <= 1.30)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 62));
+         }
+
+         /////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+         if (UserCells[i, j].C > 1.30 && UserCells[i, j].C <= 1.31)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 60));
+         }
+
+         if (UserCells[i, j].C > 1.31 && UserCells[i, j].C <= 1.32)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 58));
+         }
+
+         if (UserCells[i, j].C > 1.32 && UserCells[i, j].C <= 1.33)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 56));
+         }
+
+         if (UserCells[i, j].C > 1.33 && UserCells[i, j].C <= 1.34)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 54));
+         }
+
+         if (UserCells[i, j].C > 1.34 && UserCells[i, j].C <= 1.35)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 52));
+         }
+
+         if (UserCells[i, j].C > 1.35 && UserCells[i, j].C <= 1.36)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 50));
+         }
+
+         if (UserCells[i, j].C > 1.36 && UserCells[i, j].C <= 1.37)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 48));
+         }
+
+         if (UserCells[i, j].C > 1.37 && UserCells[i, j].C <= 1.38)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 46));
+         }
+
+         if (UserCells[i, j].C > 1.38 && UserCells[i, j].C <= 1.39)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 44));
+         }
+
+         if (UserCells[i, j].C > 1.39 && UserCells[i, j].C <= 1.40)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 42));
+         }
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+         if (UserCells[i, j].C > 1.40 && UserCells[i, j].C <= 1.41)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 40));
+         }
+
+         if (UserCells[i, j].C > 1.41 && UserCells[i, j].C <= 1.42)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 38));
+         }
+
+         if (UserCells[i, j].C > 1.42 && UserCells[i, j].C <= 1.43)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 36));
+         }
+
+         if (UserCells[i, j].C > 1.43 && UserCells[i, j].C <= 1.44)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 34));
+         }
+
+         if (UserCells[i, j].C > 1.44 && UserCells[i, j].C <= 1.45)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 32));
+         }
+
+         if (UserCells[i, j].C > 1.45 && UserCells[i, j].C <= 1.46)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 30));
+         }
+
+         if (UserCells[i, j].C > 1.46 && UserCells[i, j].C <= 1.47)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 8));
+         }
+
+         if (UserCells[i, j].C > 1.47 && UserCells[i, j].C <= 1.48)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 6));
+         }
+
+         if (UserCells[i, j].C > 1.48 && UserCells[i, j].C <= 1.49)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 4));
+         }
+
+         if (UserCells[i, j].C > 1.49 && UserCells[i, j].C <= 1.50)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 2));
+         }
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+         if (UserCells[i, j].C > 1.50 && UserCells[i, j].C <= 1.51)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 105, 255));
+         }
+
+         if (UserCells[i, j].C > 1.51 && UserCells[i, j].C <= 1.52)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 110, 255));
+         }
+
+         if (UserCells[i, j].C > 1.52 && UserCells[i, j].C <= 1.53)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 115, 255));
+         }
+
+         if (UserCells[i, j].C > 1.53 && UserCells[i, j].C <= 1.54)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 120, 255));
+         }
+
+         if (UserCells[i, j].C > 1.54 && UserCells[i, j].C <= 1.55)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 125, 255));
+         }
+
+         if (UserCells[i, j].C > 1.55 && UserCells[i, j].C <= 1.56)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 130, 255));
+         }
+
+         if (UserCells[i, j].C > 1.56 && UserCells[i, j].C <= 1.57)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 135, 255));
+         }
+
+         if (UserCells[i, j].C > 1.57 && UserCells[i, j].C <= 1.58)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 140, 255));
+         }
+
+         if (UserCells[i, j].C > 1.58 && UserCells[i, j].C <= 1.59)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 145, 255));
+         }
+
+         if (UserCells[i, j].C > 1.59 && UserCells[i, j].C <= 1.60)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 150, 255));
+         }
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+         if (UserCells[i, j].C > 1.60 && UserCells[i, j].C <= 1.61)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 155, 255));
+         }
+
+         if (UserCells[i, j].C > 1.61 && UserCells[i, j].C <= 1.62)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 160, 255));
+         }
+
+         if (UserCells[i, j].C > 1.62 && UserCells[i, j].C <= 1.63)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 165, 255));
+         }
+
+         if (UserCells[i, j].C > 1.63 && UserCells[i, j].C <= 1.64)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 170, 255));
+         }
+
+         if (UserCells[i, j].C > 1.64 && UserCells[i, j].C <= 1.65)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 175, 255));
+         }
+
+         if (UserCells[i, j].C > 1.65 && UserCells[i, j].C <= 1.66)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 180, 255));
+         }
+
+         if (UserCells[i, j].C > 1.66 && UserCells[i, j].C <= 1.67)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 185, 255));
+         }
+
+         if (UserCells[i, j].C > 1.67 && UserCells[i, j].C <= 1.68)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 190, 255));
+         }
+
+         if (UserCells[i, j].C > 1.68 && UserCells[i, j].C <= 1.69)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 195, 255));
+         }
+
+         if (UserCells[i, j].C > 1.69 && UserCells[i, j].C <= 1.70)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 200, 255));
+         }
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+         if (UserCells[i, j].C > 1.70 && UserCells[i, j].C <= 1.71)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 205, 255));
+         }
+
+         if (UserCells[i, j].C > 1.71 && UserCells[i, j].C <= 1.72)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 210, 255));
+         }
+
+         if (UserCells[i, j].C > 1.72 && UserCells[i, j].C <= 1.73)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 215, 255));
+         }
+
+         if (UserCells[i, j].C > 1.73 && UserCells[i, j].C <= 1.74)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 220, 255));
+         }
+
+         if (UserCells[i, j].C > 1.74 && UserCells[i, j].C <= 1.75)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 225, 255));
+         }
+
+         if (UserCells[i, j].C > 1.75 && UserCells[i, j].C <= 1.76)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 230, 255));
+         }
+
+         if (UserCells[i, j].C > 1.76 && UserCells[i, j].C <= 1.77)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 235, 255));
+         }
+
+         if (UserCells[i, j].C > 1.77 && UserCells[i, j].C <= 1.78)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 240, 255));
+         }
+
+         if (UserCells[i, j].C > 1.78 && UserCells[i, j].C <= 1.79)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 245, 255));
+         }
+
+         if (UserCells[i, j].C > 1.79 && UserCells[i, j].C <= 1.80)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 250, 255));
+         }
+
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+         if (UserCells[i, j].C > 1.80 && UserCells[i, j].C <= 1.81)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 255));
+         }
+
+         if (UserCells[i, j].C > 1.81 && UserCells[i, j].C <= 1.82)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 250));
+         }
+
+         if (UserCells[i, j].C > 1.82 && UserCells[i, j].C <= 1.83)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 245));
+         }
+
+         if (UserCells[i, j].C > 1.83 && UserCells[i, j].C <= 1.84)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 240));
+         }
+
+         if (UserCells[i, j].C > 1.84 && UserCells[i, j].C <= 1.85)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 235));
+         }
+
+         if (UserCells[i, j].C > 1.85 && UserCells[i, j].C <= 1.86)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 230));
+         }
+
+         if (UserCells[i, j].C > 1.86 && UserCells[i, j].C <= 1.87)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 225));
+         }
+
+         if (UserCells[i, j].C > 1.87 && UserCells[i, j].C <= 1.88)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 220));
+         }
+
+         if (UserCells[i, j].C > 1.88 && UserCells[i, j].C <= 1.89)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 215));
+         }
+
+         if (UserCells[i, j].C > 1.89 && UserCells[i, j].C <= 1.90)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 210));
+         }
+
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+         if (UserCells[i, j].C > 1.90 && UserCells[i, j].C <= 1.91)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 205));
+         }
+
+         if (UserCells[i, j].C > 1.91 && UserCells[i, j].C <= 1.92)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 200));
+         }
+
+         if (UserCells[i, j].C > 1.92 && UserCells[i, j].C <= 1.93)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 195));
+         }
+
+         if (UserCells[i, j].C > 1.93 && UserCells[i, j].C <= 1.94)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 190));
+         }
+
+         if (UserCells[i, j].C > 1.94 && UserCells[i, j].C <= 1.95)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 185));
+         }
+
+         if (UserCells[i, j].C > 1.95 && UserCells[i, j].C <= 1.96)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 180));
+         }
+
+         if (UserCells[i, j].C > 1.96 && UserCells[i, j].C <= 1.97)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 175));
+         }
+
+         if (UserCells[i, j].C > 1.97 && UserCells[i, j].C <= 1.98)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 170));
+         }
+
+         if (UserCells[i, j].C > 1.98 && UserCells[i, j].C <= 1.99)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 165));
+         }
+
+         if (UserCells[i, j].C > 1.99 && UserCells[i, j].C <= 2.00)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 160));
+         }
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+         if (UserCells[i, j].C > 2.00 && UserCells[i, j].C <= 2.01)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 155));
+         }
+
+         if (UserCells[i, j].C > 2.01 && UserCells[i, j].C <= 2.02)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 150));
+         }
+
+         if (UserCells[i, j].C > 2.02 && UserCells[i, j].C <= 2.03)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 145));
+         }
+
+         if (UserCells[i, j].C > 2.03 && UserCells[i, j].C <= 2.04)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 140));
+         }
+
+         if (UserCells[i, j].C > 2.04 && UserCells[i, j].C <= 2.05)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 135));
+         }
+
+         if (UserCells[i, j].C > 2.05 && UserCells[i, j].C <= 2.06)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 130));
+         }
+
+         if (UserCells[i, j].C > 2.06 && UserCells[i, j].C <= 2.07)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 125));
+         }
+
+         if (UserCells[i, j].C > 2.07 && UserCells[i, j].C <= 2.08)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 120));
+         }
+
+         if (UserCells[i, j].C > 2.08 && UserCells[i, j].C <= 2.09)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 115));
+         }
+
+         if (UserCells[i, j].C > 2.09 && UserCells[i, j].C <= 2.10)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 110));
+         }
+
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+         if (UserCells[i, j].C > 2.10 && UserCells[i, j].C <= 2.11)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 105));
+         }
+
+         if (UserCells[i, j].C > 2.11 && UserCells[i, j].C <= 2.12)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 100));
+         }
+
+         if (UserCells[i, j].C > 2.12 && UserCells[i, j].C <= 2.13)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 95));
+         }
+
+         if (UserCells[i, j].C > 2.13 && UserCells[i, j].C <= 2.14)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 90));
+         }
+
+         if (UserCells[i, j].C > 2.14 && UserCells[i, j].C <= 2.15)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 85));
+         }
+
+         if (UserCells[i, j].C > 2.15 && UserCells[i, j].C <= 2.16)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 80));
+         }
+
+         if (UserCells[i, j].C > 2.16 && UserCells[i, j].C <= 2.17)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 75));
+         }
+
+         if (UserCells[i, j].C > 2.17 && UserCells[i, j].C <= 2.18)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 70));
+         }
+
+         if (UserCells[i, j].C > 2.18 && UserCells[i, j].C <= 2.19)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 65));
+         }
+
+         if (UserCells[i, j].C > 2.19 && UserCells[i, j].C <= 2.20)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 60));
+         }
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+         if (UserCells[i, j].C > 2.20 && UserCells[i, j].C <= 2.21)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 55));
+         }
+
+         if (UserCells[i, j].C > 2.21 && UserCells[i, j].C <= 2.22)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 50));
+         }
+
+         if (UserCells[i, j].C > 2.22 && UserCells[i, j].C <= 2.23)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 45));
+         }
+
+         if (UserCells[i, j].C > 2.23 && UserCells[i, j].C <= 2.24)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 40));
+         }
+
+         if (UserCells[i, j].C > 2.24 && UserCells[i, j].C <= 2.25)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 35));
+         }
+
+         if (UserCells[i, j].C > 2.25 && UserCells[i, j].C <= 2.26)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 30));
+         }
+
+         if (UserCells[i, j].C > 2.26 && UserCells[i, j].C <= 2.27)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 25));
+         }
+
+         if (UserCells[i, j].C > 2.27 && UserCells[i, j].C <= 2.28)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 20));
+         }
+
+         if (UserCells[i, j].C > 2.28 && UserCells[i, j].C <= 2.29)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 15));
+         }
+
+         if (UserCells[i, j].C > 2.29 && UserCells[i, j].C <= 2.30)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 10));
+         }
+
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+         if (UserCells[i, j].C > 2.30 && UserCells[i, j].C <= 2.31)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 5));
+         }
+
+         if (UserCells[i, j].C > 2.31 && UserCells[i, j].C <= 2.32)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 0, 255, 0)); //
+         }
+
+         if (UserCells[i, j].C > 2.32 && UserCells[i, j].C <= 2.33)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 5, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.33 && UserCells[i, j].C <= 2.34)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 10, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.34 && UserCells[i, j].C <= 2.35)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 15, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.35 && UserCells[i, j].C <= 2.36)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 20, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.36 && UserCells[i, j].C <= 2.37)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 25, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.37 && UserCells[i, j].C <= 2.38)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 30, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.38 && UserCells[i, j].C <= 2.39)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 35, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.39 && UserCells[i, j].C <= 2.40)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 40, 255, 0)); 
+         }
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+         if (UserCells[i, j].C > 2.40 && UserCells[i, j].C <= 2.41)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 45, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.41 && UserCells[i, j].C <= 2.42)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 50, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.42 && UserCells[i, j].C <= 2.43)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 55, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.43 && UserCells[i, j].C <= 2.44)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 60, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.44 && UserCells[i, j].C <= 2.45)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 65, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.45 && UserCells[i, j].C <= 2.46)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 70, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.46 && UserCells[i, j].C <= 2.47)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 75, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.47 && UserCells[i, j].C <= 2.48)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 80, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.48 && UserCells[i, j].C <= 2.49)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 85, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.49 && UserCells[i, j].C <= 2.50)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 90, 255, 0)); 
+         }
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+         if (UserCells[i, j].C > 2.50 && UserCells[i, j].C <= 2.51)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 95, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.51 && UserCells[i, j].C <= 2.52)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 100, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.52 && UserCells[i, j].C <= 2.53)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 105, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.53 && UserCells[i, j].C <= 2.54)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 110, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.54 && UserCells[i, j].C <= 2.55)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 115, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.55 && UserCells[i, j].C <= 2.56)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 120, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.56 && UserCells[i, j].C <= 2.57)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 125, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.57 && UserCells[i, j].C <= 2.58)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 130, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.58 && UserCells[i, j].C <= 2.59)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 135, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.59 && UserCells[i, j].C <= 2.60)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 140, 255, 0)); 
+         }
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+         if (UserCells[i, j].C > 2.60 && UserCells[i, j].C <= 2.61)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 145, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.61 && UserCells[i, j].C <= 2.62)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 150, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.62 && UserCells[i, j].C <= 2.63)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 155, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.63 && UserCells[i, j].C <= 2.64)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 160, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.64 && UserCells[i, j].C <= 2.65)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 165, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.65 && UserCells[i, j].C <= 2.66)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 170, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.66 && UserCells[i, j].C <= 2.67)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 175, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.67 && UserCells[i, j].C <= 2.68)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 180, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.68 && UserCells[i, j].C <= 2.69)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 185, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.69 && UserCells[i, j].C <= 2.70)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 190, 255, 0)); 
+         }
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+         if (UserCells[i, j].C > 2.70 && UserCells[i, j].C <= 2.71)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 195, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.71 && UserCells[i, j].C <= 2.72)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 200, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.72 && UserCells[i, j].C <= 2.73)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 205, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.73 && UserCells[i, j].C <= 2.74)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 210, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.74 && UserCells[i, j].C <= 2.75)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 215, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.75 && UserCells[i, j].C <= 2.76)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 220, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.76 && UserCells[i, j].C <= 2.77)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 225, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.77 && UserCells[i, j].C <= 2.78)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 230, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.78 && UserCells[i, j].C <= 2.79)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 235, 255, 0)); 
+         }
+
+         if (UserCells[i, j].C > 2.79 && UserCells[i, j].C <= 2.80)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 240, 255, 0)); 
+         }
+
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+         if (UserCells[i, j].C > 2.80 && UserCells[i, j].C <= 2.81)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 245, 255, 0));
+         }
+
+         if (UserCells[i, j].C > 2.81 && UserCells[i, j].C <= 2.82)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 250, 255, 0));
+         }
+
+         if (UserCells[i, j].C > 2.82 && UserCells[i, j].C <= 2.83)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 255, 0));//
+         }
+  if (UserCells[i, j].C > 2.83 && UserCells[i, j].C <= 2.84)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 250, 0));
+         }
+
+         if (UserCells[i, j].C > 2.84 && UserCells[i, j].C <= 2.85)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 245, 0));
+         }
+
+         if (UserCells[i, j].C > 2.85 && UserCells[i, j].C <= 2.86)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 240, 0));
+         }
+
+         if (UserCells[i, j].C > 2.86 && UserCells[i, j].C <= 2.87)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 235, 0));
+         }
+
+         if (UserCells[i, j].C > 2.87 && UserCells[i, j].C <= 2.88)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 230, 0));
+         }
+
+         if (UserCells[i, j].C > 2.88 && UserCells[i, j].C <= 2.89)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 225, 0));
+         }
+
+         if (UserCells[i, j].C > 2.89 && UserCells[i, j].C <= 2.90)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 220, 0));
+         }
+
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+         if (UserCells[i, j].C > 2.90 && UserCells[i, j].C <= 2.91)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 215, 0));
+         }
+
+         if (UserCells[i, j].C > 2.91 && UserCells[i, j].C <= 2.92)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 210, 0));
+         }
+
+         if (UserCells[i, j].C > 2.92 && UserCells[i, j].C <= 2.93)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 205, 0));
+         }
+
+         if (UserCells[i, j].C > 2.93 && UserCells[i, j].C <= 2.94)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 200, 0));
+         }
+
+         if (UserCells[i, j].C > 2.94 && UserCells[i, j].C <= 2.95)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 195, 0));
+         }
+
+         if (UserCells[i, j].C > 2.95 && UserCells[i, j].C <= 2.96)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 190, 0));
+         }
+
+         if (UserCells[i, j].C > 2.96 && UserCells[i, j].C <= 2.97)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 185, 0));
+         }
+
+         if (UserCells[i, j].C > 2.97 && UserCells[i, j].C <= 2.98)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 180, 0));
+         }
+
+         if (UserCells[i, j].C > 2.98 && UserCells[i, j].C <= 2.99)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 175, 0));
+         }
+
+         if (UserCells[i, j].C > 2.99 && UserCells[i, j].C <= 3.00)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 170, 0));
+         }
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+         if (UserCells[i, j].C > 3.00 && UserCells[i, j].C <= 3.01)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 165, 0));
+         }
+
+         if (UserCells[i, j].C > 3.01 && UserCells[i, j].C <= 3.02)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 160, 0));
+         }
+
+         if (UserCells[i, j].C > 3.02 && UserCells[i, j].C <= 3.03)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 155, 0));
+         }
+
+         if (UserCells[i, j].C > 3.03 && UserCells[i, j].C <= 3.04)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 150, 0));
+         }
+
+         if (UserCells[i, j].C > 3.04 && UserCells[i, j].C <= 3.05)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 145, 0));
+         }
+
+         if (UserCells[i, j].C > 3.05 && UserCells[i, j].C <= 3.06)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 140, 0));
+         }
+
+         if (UserCells[i, j].C > 3.06 && UserCells[i, j].C <= 3.07)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 135, 0));
+         }
+
+         if (UserCells[i, j].C > 3.07 && UserCells[i, j].C <= 3.08)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 130, 0));
+         }
+
+         if (UserCells[i, j].C > 3.08 && UserCells[i, j].C <= 3.09)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 125, 0));
+         }
+
+         if (UserCells[i, j].C > 3.09 && UserCells[i, j].C <= 3.10)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 120, 0));
+         }
+
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+         if (UserCells[i, j].C > 3.10 && UserCells[i, j].C <= 3.11)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 115, 0));
+         }
+
+         if (UserCells[i, j].C > 3.11 && UserCells[i, j].C <= 3.12)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 110, 0));
+         }
+
+         if (UserCells[i, j].C > 3.12 && UserCells[i, j].C <= 3.13)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 105, 0));
+         }
+
+         if (UserCells[i, j].C > 3.13 && UserCells[i, j].C <= 3.14)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 100, 0));
+         }
+
+         if (UserCells[i, j].C > 3.14 && UserCells[i, j].C <= 3.15)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 95, 0));
+         }
+
+         if (UserCells[i, j].C > 3.15 && UserCells[i, j].C <= 3.16)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 90, 0));
+         }
+
+         if (UserCells[i, j].C > 3.16 && UserCells[i, j].C <= 3.17)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 85, 0));
+         }
+
+         if (UserCells[i, j].C > 3.17 && UserCells[i, j].C <= 3.18)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 80, 0));
+         }
+
+         if (UserCells[i, j].C > 3.18 && UserCells[i, j].C <= 3.19)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 75, 0));
+         }
+
+         if (UserCells[i, j].C > 3.19 && UserCells[i, j].C <= 3.20)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 70, 0));
+         }
+         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+         if (UserCells[i, j].C > 3.20 && UserCells[i, j].C <= 3.21)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 65, 0));
+         }
+
+         if (UserCells[i, j].C > 3.21 && UserCells[i, j].C <= 3.22)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 60, 0));
+         }
+
+         if (UserCells[i, j].C > 3.22 && UserCells[i, j].C <= 3.23)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 55, 0));
+         }
+
+         if (UserCells[i, j].C > 3.23 && UserCells[i, j].C <= 3.24)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 50, 0));
+         }
+
+         if (UserCells[i, j].C > 3.24 && UserCells[i, j].C <= 3.25)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 45, 0));
+         }
+
+         if (UserCells[i, j].C > 3.25 && UserCells[i, j].C <= 3.26)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 40, 0));
+         }
+
+         if (UserCells[i, j].C > 3.26 && UserCells[i, j].C <= 3.27)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 35, 0));
+         }
+
+         if (UserCells[i, j].C > 3.27 && UserCells[i, j].C <= 3.28)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 30, 0));
+         }
+
+         if (UserCells[i, j].C > 3.28 && UserCells[i, j].C <= 3.29)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 25, 0));
+         }
+
+         if (UserCells[i, j].C > 3.29 && UserCells[i, j].C <= 3.30)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 20, 0));
+         }
+
+         if (UserCells[i, j].C > 3.30 && UserCells[i, j].C <= 3.31)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 15, 0));
+         }
+         if (UserCells[i, j].C > 3.31 && UserCells[i, j].C <= 3.32)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 10, 0));
+         }
+
+         if (UserCells[i, j].C > 3.32 && UserCells[i, j].C <= 3.33)
+         {
+             MyBitMapCF.SetPixel(i, UserCells.GetLength(1) - 1 - j, Color.FromArgb(255, 255, 5, 0));
+         }
+
+

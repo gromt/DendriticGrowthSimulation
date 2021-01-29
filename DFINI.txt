@@ -1,0 +1,45 @@
+        private void DiffusionFrontIni(Cell[,] UserCells) // DF - diffusion front
+        {
+            for (int i = 3; i <= UserCells.GetLength(0) - 4; i++) // DF - фронт кристаллизации
+            {
+                for (int j = 3; j <= UserCells.GetLength(1) - 4; j++)
+                {
+                    UserCells[i, j].DF = false;
+                }
+            }
+
+
+            for (int i = 3; i <= UserCells.GetLength(0) - 4; i++) // DF - фронт диффузии
+            {
+                for (int j = 3; j <= UserCells.GetLength(1) - 4; j++)
+                {
+
+                    UserCells[i, j].DF = false;
+
+                    if (UserCells[i, j].C != 1 && UserCells[i, j].G != 1 &&
+                        (UserCells[i - 1, j - 1].C == 1 ||
+                         UserCells[i, j - 1].C == 1 ||
+                         UserCells[i + 1, j - 1].C == 1 ||
+                         UserCells[i - 1, j].C == 1 ||
+                         UserCells[i + 1, j].C == 1 ||
+                         UserCells[i - 1, j + 1].C == 1 ||
+                         UserCells[i, j + 1].C == 1 ||
+                         UserCells[i + 1, j + 1].C == 1)
+
+                         && (UserCells[i - 1, j - 1].G != 1 ||
+                         UserCells[i, j - 1].G != 1 ||
+                         UserCells[i + 1, j - 1].G != 1 ||
+                         UserCells[i - 1, j].G != 1 ||
+                         UserCells[i + 1, j].G != 1 ||
+                         UserCells[i - 1, j + 1].G != 1 ||
+                         UserCells[i, j + 1].G != 1 ||
+                         UserCells[i + 1, j + 1].G != 1))
+                    {
+                        UserCells[i, j].DF = true;
+                        UserCells[i, j + 1].WasDF = true;
+                        UserCells[i, j].WasDF = true;
+                    }
+                }
+            }
+
+        }
